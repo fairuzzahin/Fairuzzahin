@@ -11,11 +11,11 @@
 - Performance Testing with JMeter
 - Web Automation Testing using Selenium
 - Mobile Testing using Appium
-- Cypress
+- Web Automation using Cypress
 
 ### Tools and Technologies
 
-- **Manual Testing:** Testplan, Testcase, Testmatrices, Mindmap, Bugreporting
+- **Manual Testing:** Testplan, Testcase, Testmatrices, Mindmap, Bug reporting
 
 - **API Testing:** Postman, Newman
 
